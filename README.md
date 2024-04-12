@@ -2,6 +2,8 @@
 
 Welcome to **Omnifood**, your go-to platform for nutritious eating and wellness advice! 🌱🍎🥑
 
+**Website URL**: https://eat-healthy-forever.netlify.app/
+
 ## About
 
 Omnifood is a subscription-based website that aims to promote healthy eating habits. Whether you're looking for diet tips, meal plans, or simply want to learn more about maintaining a balanced lifestyle, we've got you covered.
